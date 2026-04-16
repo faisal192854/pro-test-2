@@ -1,0 +1,6 @@
+{
+  "name": "Chroma Studio",
+  "description": "A professional color picker and palette manager for designers. Pick colors from any webpage, manage palettes, and export to CSS, Tailwind, or Figma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

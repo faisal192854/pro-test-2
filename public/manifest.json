@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Chroma Studio",
+  "version": "1.0.0",
+  "description": "A professional color picker and palette manager for designers.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Chroma Studio"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
